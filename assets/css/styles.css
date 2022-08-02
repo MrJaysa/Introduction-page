@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+
+.hero-img{
+    height: 35rem;
+    margin-bottom: 3rem;
+    margin-left: auto;
+}
+.alone{
+    margin-top: 4rem;
+}
+.show{
+    display: block;
+}
+.close{
+    position: absolute;
+    background: hsl(0, 0%, 8%);
+    width: 23.95rem;
+    height: 54rem;
+    margin-top: -3.9rem;
+    margin-left: -2rem;
+    opacity: 50%;
+    visibility: hidden;
+}
+.back{
+    visibility: visible;
+}
+.flex{
+    display: flex;
+}
+#menu{
+    height: 55rem;
+}
+.hide{
+    visibility: hidden;
+}
+@media(max-width:380px){
+    .alone{
+        margin-top: 0;
+    }
+}
