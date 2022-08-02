@@ -28,7 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/screenshots)
+![](./assets/images/screenshots/Screenshot%20(30).png)
+![](./assets/images/screenshots/Screenshot%20(31).png)
+![](./assets/images/screenshots/Screenshot%20(32).png)
+![](./assets/images/screenshots/Screenshot%20(33).png)
 
 Screenshots of my solution
 
